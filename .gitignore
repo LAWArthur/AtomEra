@@ -1,0 +1,14 @@
+.vs/
+Builds/
+Logs/
+obj/
+Temp/
+WebGLBuilds/
+Library/
+Assets/
+Packages/
+ProjectSettings/
+UIElementsSchema/
+*.iss
+*.csproj
+*.sln
