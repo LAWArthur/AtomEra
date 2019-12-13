@@ -1,0 +1,26 @@
+{
+    "position": {
+        "x": -4.266666412353516,
+        "y": 0.013997241854667664,
+        "z": 4.333333492279053
+    },
+    "energy": 1035.0,
+    "healthMax": 2000.0,
+    "powerbarMax": 107.0,
+    "healthRevive": 10.0,
+    "powerbarRevive": 10.0,
+    "defense": {
+        "mass": 16.0,
+        "energy": 8.0,
+        "antimass": 0.0,
+        "darkenergy": 0.0,
+        "resistance": 0.0
+    },
+    "attack": {
+        "mass": 32.0,
+        "energy": 8.0,
+        "antimass": 0.0,
+        "darkenergy": 0.0,
+        "cosmos": 0.0
+    }
+}

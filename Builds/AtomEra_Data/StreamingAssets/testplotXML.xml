@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Plot xmlns="http://tempuri.org/XMLSchema.xsd" name="TestPlot">
+  <Detail>
+    <Lock/>
+    <Dialogue speaker="？？？">
+      <Choice time="2">流星......</Choice>
+    </Dialogue>
+    <Dialogue speaker="？？？">
+      <Choice time="2">圣堂大陆......已经好久没有流星了......</Choice>
+    </Dialogue>
+  </Detail>
+  
+  <Detail>
+    <Cinemachine vcam="MeteorCloseShot VCam" time="10"/>
+    <Unlock/>
+    <Give itemid="00010001"/>
+  </Detail>
+</Plot>

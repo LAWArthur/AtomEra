@@ -1,5 +1,4 @@
 .vs/
-Builds/
 Logs/
 obj/
 Temp/
@@ -9,6 +8,7 @@ Assets/
 Packages/
 ProjectSettings/
 UIElementsSchema/
+Releases/
 *.iss
 *.csproj
 *.sln

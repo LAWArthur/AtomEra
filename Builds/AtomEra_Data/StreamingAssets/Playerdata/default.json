@@ -1,0 +1,27 @@
+{
+    "position": {
+        "x": 0.43574944138526919,
+        "y": 0.5,
+        "z": -7.627583980560303
+    },
+    "SceneIndex": 2,
+    "energy": 1035.0,
+    "healthMax": 2000.0,
+    "powerbarMax": 107.0,
+    "healthRevive": 0.0,
+    "powerbarRevive": 0.0,
+    "defense": {
+        "mass": 16.0,
+        "energy": 8.0,
+        "antimass": 0.0,
+        "darkenergy": 0.0,
+        "resistance": 0.0
+    },
+    "attack": {
+        "mass": 20.0,
+        "energy": 8.0,
+        "antimass": 0.0,
+        "darkenergy": 0.0,
+        "cosmos": 0.0
+    }
+}
