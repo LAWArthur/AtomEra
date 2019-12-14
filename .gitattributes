@@ -58,3 +58,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 Builds/AtomEra_Data/* filter=lfs diff=lfs merge=lfs -text
+docs/RemoteAddressablesData filter=lfs diff=lfs merge=lfs -text
